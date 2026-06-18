@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Project Info
 
 | Field              | Detail                                      |
@@ -302,5 +303,6 @@ O(log n) where n is the number of keywords. For 62 keywords, maximum 6 compariso
 ---
 
 *SyntaxSage — DSA Project | University of Central Punjab*
-#   S y n t a x S a g e  
+#   S y n t a x S a g e 
+ 
  
